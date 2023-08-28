@@ -1,6 +1,7 @@
 +++
 title = "My second post"
 date = 2023-08-28
+authors = ["kamesuke42"]
 +++
 
 # Hi
