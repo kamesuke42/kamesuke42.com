@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kamesuke42
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kamesuke42.com
+  * I am kamesuke42 (https://keybase.io/kamesuke42) on keybase.
+  * I have a public key ASCfuNSNSvbuIpT_GcKSyvBBfGpZDG6vaI0hk_2BAqQB7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120455c449a11fc3c9ac42e36aaab8df81e9c8e2f4eb2e2a39b67a5730ca50cfa7a0a",
+      "host": "keybase.io",
+      "kid": "01209fb8d48d4af6ee2294ff19c292caf0417c6a590c6eaf688d2193fd8102a401ee0a",
+      "uid": "51fe41a6eb9454d0e685b2183739c219",
+      "username": "kamesuke42"
+    },
+    "merkle_root": {
+      "ctime": 1696140793,
+      "hash": "e1da1364085374ea32aea881d443958d22cb824632ac99e1406b8e87c7facd51050580075bfa82ae4a4817c9ec7913120204fd8223225df53b09aa46427e55a8",
+      "hash_meta": "7b1cff206dce394145f7b23b27ef9596a43c8bb2594962c800fd1392390ac6bc",
+      "seqno": 24982316
+    },
+    "service": {
+      "entropy": "5D5k84NSg5QLtovr+ICTfXmy",
+      "hostname": "kamesuke42.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.3"
+  },
+  "ctime": 1696140852,
+  "expire_in": 504576000,
+  "prev": "8caed40e083e65e78293b41b05b38cab12c545a78c17d26ad9bfae1209b2a117",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn7jUjUr27iKU/xnCksrwQXxqWQxur2iNIZP9gQKkAe4Kp3BheWxvYWTESpcCDcQgjK7UDgg+ZeeCk7QbBbOMqxLFRaeMF9Jq2b+uEgmyoRfEII8++s/xcrG6U9r/ARSdSPBjfbdlFfA1Fq6aGUYFPGeoAgHCo3NpZ8RAA9+O9MoUAoAA+iVZtZsYUb1zT5vn36Q84JdZIerEKI5F1T/KBviTqAi+NIN6k/muXSnzQJUXomzADkToCH9dB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICsNwonTGDn+0i5HbM6PAd8W676+hAq8tookM7pK8U3qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kamesuke42
+
+==================================================================
