@@ -1,8 +1,10 @@
 @import "mocha";
+@import url(https://fonts.bunny.net/css?family=noto-sans-mono:300,400,500,700);
 
 body {
     background-color: $base;
     color: $text;
+    font-family: "Noto Sans Mono", monospace;
 }
 
 h1 a {
