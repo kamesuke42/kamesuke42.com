@@ -1,6 +1,12 @@
+@import "mocha";
+
 body {
-    background-color: #3c3c3c;
-    color: #cccccc;
+    background-color: $base;
+    color: $text;
+}
+
+h1 a {
+    color: $mauve;
 }
 
 body > * {
@@ -9,7 +15,7 @@ body > * {
 }
 
 a {
-    color: #cccccc;
+    color: $text;
 }
 
 header {
@@ -20,9 +26,9 @@ header {
 
 footer {
     font-size: 0.8rem;
-    color: #a0a0a0;
+    color: $subtext1;
     a {
         font-size: 0.8rem;
-        color: #a0a0a0;
+        color: $subtext1;
     }
 }
