@@ -1,12 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-<section>
-  <h2>Bio</h2>
-  <p>hobbyist</p>
-</section>
 <setion>
-  <h2>Links</h2>
+  <h2>All links</h2>
   <div>
     <ul>
       <li>GitHub: <a href="https://github.com/kamesuke42" target="_blank">kamesuke42</a></li>
@@ -14,11 +10,6 @@
       <li>X: <a href="https://x.com/@kamesuke42_en" target="_blank">@kamesuke42_en</a></li>
       <li>Blog: <a href="{{ get_url(path='@/blog/_index.md') }}">/blog</a></li>
     </ul>
-    <a href="{{ get_url(path='@/links.md') }}">and more</a>
   </div>
 </setion>
-<section>
-  <h2>Likes</h2>
-  <p>Neovim, Emacs, CTF, HTB, Security, Rust</p>
-</section>
 {% endblock content %}
